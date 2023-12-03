@@ -3560,6 +3560,14 @@ h6, .h6 {
     line-height: 50px;
     border-radius: 50%;
     text-align: center; }
+  .menu-sidebar a {
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    background: var(--NexDigitalis-primary-color);
+    line-height: 50px;
+    border-radius: 50%;
+    text-align: center; }
     .menu-sidebar button img {
       margin-top: -4px; }
 

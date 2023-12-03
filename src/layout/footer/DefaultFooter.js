@@ -22,10 +22,10 @@ const DefaultFooter = () => {
             </div>
             <div className="col-lg-8 text-lg-end">
               <div className="social-style-four mb-20 wow fadeInLeft delay-0-2s animated">
-                <a href="#">
+                <a href="https://www.facebook.com/profile.php?id=61554164070683">
                   <i className="fab fa-facebook-f" /> <span>Facebook</span>
                 </a>
-                <a href="#">
+                <a href="https://www.instagram.com/nexdigitalis_/">
                   <i className="fab fa-instagram" /> <span>Instagram</span>
                 </a>
               </div>
@@ -42,18 +42,12 @@ const DefaultFooter = () => {
                 />
                 <span>Let’s Work Together</span>
               </div>
-              <div className="footer-contact-info wow fadeInUp delay-0-3s animated">
-                <a
-                  className="theme-btn style-three"
-                  href="mailto:support@gmail.com"
-                >
-                  support@gmail.com <i className="far fa-arrow-right" />
-                </a>
+              <div className="footer-contact-info  fadeInUp delay-0-3s animated">
                 <a
                   className="theme-btn style-three phone-number"
-                  href="callto:+000(123)45688"
+                  href="https://w.app/NexDigitalis"
                 >
-                  +000 (123) 456 88 <i className="far fa-arrow-right" />
+                   <i className="fab fa-whatsapp fa-lg" />
                 </a>
               </div>
             </div>

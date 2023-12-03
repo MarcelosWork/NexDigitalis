@@ -61,7 +61,7 @@ const SideBar = () => {
             <span className="fa fa-times" />
           </div>
           <div className="title">
-            <h4>Get Appointment</h4>
+            <h4>Ask for a budget</h4>
           </div>
           {/*Appointment Form*/}
           <div className="appointment-form">
@@ -88,6 +88,7 @@ const SideBar = () => {
               <div className="form-group">
                 <textarea placeholder="Message" rows={5} />
               </div>
+              <p style={{fontSize:"12px"}}>Our team will respond as quickly as possible.</p>
               <div className="form-group">
                 <button type="submit" className="theme-btn">
                   Submit now

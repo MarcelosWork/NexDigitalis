@@ -34,13 +34,13 @@ const DefaultHeader = ({ singleMenu }) => {
             <div className="menu-btns">
               {/* menu sidbar */}
               <div className="menu-sidebar">
-                <button>
-                <i  class="fab fa-whatsapp fa-lg"></i>
+                <a href="https://w.app/NexDigitalis">
+                <i  class="fab fa-whatsapp fa-lg" style={{color:"black"}}></i>
                   {/* <img src="assets/images/icons/toggler.svg" alt="Toggler" /> */}
-                </button>
+                </a>
              
                 <button style={{marginLeft:"10px"}}>
-                <i  class="fa fa-envelope fa-lg"></i>
+                <i  class="fa fa-envelope fa-lg" style={{color:"black"}}></i>
                   {/* <img src="assets/images/icons/toggler.svg" alt="Toggler" /> */}
                 </button>
               </div>
