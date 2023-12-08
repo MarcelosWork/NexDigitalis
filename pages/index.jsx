@@ -34,7 +34,7 @@ const Index = () => {
               <a href="https://www.facebook.com/profile.php?id=61554164070683">
                 <i className="fab fa-facebook-f" /> <span>Facebook</span>
               </a>
-              <a href="https://www.instagram.com/nexdigitalis_/">
+              <a href="https://www.instagram.com/nexdigitalis.pt/">
                 <i className="fab fa-instagram" /> <span>Instagram</span>
               </a>
             </div>

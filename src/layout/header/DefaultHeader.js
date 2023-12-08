@@ -34,7 +34,7 @@ const DefaultHeader = ({ singleMenu }) => {
             <div className="menu-btns">
               {/* menu sidbar */}
               <div className="menu-sidebar">
-                <a href="https://w.app/NexDigitalis">
+                <a href="https://wa.link/j1f607">
                 <i  class="fab fa-whatsapp fa-lg" style={{color:"black"}}></i>
                   {/* <img src="assets/images/icons/toggler.svg" alt="Toggler" /> */}
                 </a>

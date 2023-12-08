@@ -25,7 +25,7 @@ const DefaultFooter = () => {
                 <a href="https://www.facebook.com/profile.php?id=61554164070683">
                   <i className="fab fa-facebook-f" /> <span>Facebook</span>
                 </a>
-                <a href="https://www.instagram.com/nexdigitalis_/">
+                <a href="https://www.instagram.com/nexdigitalis.pt/">
                   <i className="fab fa-instagram" /> <span>Instagram</span>
                 </a>
               </div>
@@ -45,7 +45,7 @@ const DefaultFooter = () => {
               <div className="footer-contact-info  fadeInUp delay-0-3s animated">
                 <a
                   className="theme-btn style-three phone-number"
-                  href="https://w.app/NexDigitalis"
+                  href="https://wa.link/j1f607"
                 >
                    <i className="fab fa-whatsapp fa-lg" />
                 </a>
