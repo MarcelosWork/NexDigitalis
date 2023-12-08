@@ -45,7 +45,7 @@ const DefaultFooter = () => {
               <div className="footer-contact-info  fadeInUp delay-0-3s animated">
                 <a
                   className="theme-btn style-three phone-number"
-                  href="https://w.app/NexDigitalis"
+                  href="https://wa.link/slukqe"
                 >
                    <i className="fab fa-whatsapp fa-lg" />
                 </a>
